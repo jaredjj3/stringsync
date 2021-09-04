@@ -61,7 +61,7 @@
     "resize-observer-polyfill": "^1.5.1",
     "styled-components": "^5.2.1",
     "typescript": "4.4-rc",
-    "video.js": "^7.11.4",
+    "video.js": "^7.14.3",
     "web-vitals": "^1.0.1",
     "workbox-background-sync": "^5.1.3",
     "workbox-broadcast-update": "^5.1.3",
